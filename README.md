@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 
 ### Things I love
--Coding
--Cricket
--Cooking
+- Coding
+- Cricket
+- Cooking
 
