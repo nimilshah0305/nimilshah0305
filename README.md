@@ -8,5 +8,8 @@
 - 📫 How to reach me: nimilshah030599@gmail.com
 - 😄 Pronouns: He/Him
 
-Things I love
+### Things I love
+-Coding
+-Cricket
+-Cooking
 
