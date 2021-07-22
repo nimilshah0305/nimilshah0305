@@ -13,3 +13,4 @@
 - Cricket
 - Cooking
 
+<img src="https://github-readme-stats.vercel.app/api?username=nimilshah0305&show_icons=true&theme=radical"/>
